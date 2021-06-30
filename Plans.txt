@@ -3,5 +3,4 @@ Plan is to make a service for the apps users.
 Features:
 
 - Json Support
-- Offline database
 - Mobile Database Indicator (maybe)
