@@ -5,4 +5,4 @@ Features:
 - Json Support
 - Mobile Database Indicator (maybe)
 - Auto update
-- Custom database (set in json)
+- Custom database (customize in json file)
