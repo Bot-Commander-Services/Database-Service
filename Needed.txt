@@ -1,5 +1,5 @@
 Typescript 
 Some library (for messages)
 
-ulrs:
+urls:
 https://www.npmjs.com/package/promise-android-tools
